@@ -1,4 +1,4 @@
-<h2 align="center">Hey there! Sreejith  here 👋</h2>
+<h1 align="center">Hey there! Sreejith  here 👋</h1>
 
 ###
 
@@ -63,11 +63,11 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/sreejith-a-sreenivasan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/sreejith-a-sreenivasan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
-  <a href="sreejithsreenivasan.06@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:sreejithsreenivasan.06@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
   </a>
 </div>
 
