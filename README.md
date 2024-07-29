@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">I am a Backend Developer who is exploring the worlds of Frontend Development and AI/Machine Learning 😉.<br><br>🔭 My journey includes mastering frameworks like React and exploring AI technologies.<br><br>🌱 I’m currently learning frontend development and expanding my skills in AI and machine learning.<br><br>💬 Ask me about Python Programming, Backend Development, and related topics.</h2>
+<p align="left">I am a Backend Developer who is exploring the worlds of Frontend Development and AI/Machine Learning 😉.<br><br>🔭 My journey includes mastering frameworks like React and exploring AI technologies.<br><br>🌱 I’m currently learning frontend development and expanding my skills in AI and machine learning.<br><br>💬 Ask me about Python Programming, Backend Development, and related topics.</p>
 
 ###
 
