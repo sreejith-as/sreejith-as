@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="35" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
+  <img height="30" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
 </div>
 
 ###
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I am a Backend Developer who is exploring the worlds of Frontend Development and AI/Machine Learning 😉.<br><br>🔭 My journey includes mastering frameworks like React and exploring AI technologies.<br><br>🌱 I’m currently learning frontend development and expanding my skills in AI and machine learning.<br><br>💬 Ask me about Python Programming, Backend Development, and related topics.</p>
+<h2 align="left">I am a Backend Developer who is exploring the worlds of Frontend Development and AI/Machine Learning 😉.<br><br>🔭 My journey includes mastering frameworks like React and exploring AI technologies.<br><br>🌱 I’m currently learning frontend development and expanding my skills in AI and machine learning.<br><br>💬 Ask me about Python Programming, Backend Development, and related topics.</h2>
 
 ###
 
@@ -51,7 +51,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreejith-as&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=My%20Stats..." height="200" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=sreejith-as&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
